@@ -2,6 +2,8 @@
 
 ## STRAKS Wallet for Android 
 
+> Please note that it is an old project created for the not supported (anymore) cryptocurrency STRAKS. I decided to publish it to the open-source community, so everyone can use it for their own purposes.
+
 #### Android Wallet Done Right
 
 This is the Android port of the STRAKSwallet iOS app, which can be found [here](https://github.com/straks/strakswallet-ios/).
